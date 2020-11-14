@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentHidden</string>
+    <string name="call">打电话</string>
+</resources>
